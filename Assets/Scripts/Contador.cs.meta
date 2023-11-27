@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 145f8e601e435be43a4ee7a81850aef9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TextoContador: {instanceID: 0}
+  - Panel: {instanceID: 0}
+  - Personaje: {fileID: 2461957073369776322, guid: 1ccbadd405e48cd4287c4df201034a6b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
